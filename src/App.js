@@ -21,6 +21,7 @@ function App() {
         setstatus(false)
       }else{
         alert("Failed")
+        setstatus(false)
       }
     })
   }
